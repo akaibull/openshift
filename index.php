@@ -1,6 +1,6 @@
 <?php
 
-echo  "hello world world  \n";
+echo  "hello world this is the updated test   \n";
 
 ?>
 
