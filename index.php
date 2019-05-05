@@ -1,6 +1,6 @@
 <?php
 
-echo  "hello world, this is openshift testing procedure ...  \n";
+echo  "hello world,yayayyaaaayyyyy still this is openshift testing procedure ...  \n";
 
 ?>
 
